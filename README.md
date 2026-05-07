@@ -1,3 +1,4 @@
+This is plugin for Limnoria IRC bot
 Get your free API here: https://console.groq.com/keys
 This is old Groq model, but it works. Use this command in your bot's PM (/query):
 
